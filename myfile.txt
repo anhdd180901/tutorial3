@@ -4,3 +4,4 @@
 
 add : Đăng ký thay đổi trong index
 
+commit : lưu lại trạng thais của index
